@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewExplicityIntent</string>
+    <string name="textViewTitle">Intent</string>
+    <string name="textViewtitle">Intent</string>
+    <string name="btnSymple">EXPLICITY INTENT(Symple)</string>
+    <string name="btnResult">EXPLICIT INHERIT(Result)</string>
+    <string name="btnListView">EXPLICIT INTENT(LISTVIEW)</string>
+    <string name="textViewSimpletitle">Simple Title</string>
+    <string name="textViewResultTitle">Result Title</string>
+    <string name="textViewListViewTitle">ListView Title</string>
+</resources>
